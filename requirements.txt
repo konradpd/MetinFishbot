@@ -1,0 +1,12 @@
+2captcha_python==1.5.1
+interception_python==1.13.5
+keyboard==0.13.5
+mss==10.0.0
+numpy==2.2.1
+opencv_python==4.11.0.86
+Pillow==11.1.0
+psutil==6.1.0
+PyAutoGUI==0.9.54
+pydub==0.25.1
+pywin32==308
+sounddevice==0.5.1
